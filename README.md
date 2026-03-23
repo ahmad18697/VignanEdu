@@ -46,7 +46,7 @@ It has the following functionality -
 
 #### Clone the repository :
 
-git clone https://github.com/221fa04697/VignanEdu.git
+git clone https://github.com/ahmad18697/VignanEdu.git
 
 #### For backend :
 
